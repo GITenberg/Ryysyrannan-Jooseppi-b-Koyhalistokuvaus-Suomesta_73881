@@ -1,5 +1,8 @@
 _repo: Ryysyrannan-Jooseppi-b-Koyhalistokuvaus-Suomesta_73881
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kianto, Ilmari
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44960
     wikipedia: https://fi.wikipedia.org/wiki/Ilmari_Kianto
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73881#Ryysyrannan-Jooseppi-b-Koyhalistokuvaus-Suomesta
 gutenberg_issued: '2024-06-20'
 gutenberg_type: Text
 identifiers:
